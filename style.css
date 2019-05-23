@@ -130,6 +130,7 @@ p4{
 .row3{
   margin-bottom: 20px;
   position: relative;
+  padding-left: 2vw;
 }
 .social {
   width: 10%;
@@ -143,7 +144,7 @@ p4{
   margin-bottom: 20px;
   position: absolute;
   box-shadow: inset 0 0 5em 1em #000;
-  top: 105vw;
+  top: 28vw;
   display: block;
 }
 .box21{
